@@ -12,7 +12,7 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:shubham235chandra@gmail.com)](mailto:shubham235chandra@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:shubhamchandra235@gmail.com)](shubhamchandra235@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-chandra-81221112a/)](https://www.linkedin.com/in/shubham-chandra-81221112a/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/ImBidExter/)](https://www.twitter.com/ImBidExter/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/ImBidExter/)](https://www.facebook.com/ImBidExter/)
