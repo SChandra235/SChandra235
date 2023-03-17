@@ -1,13 +1,13 @@
 <h1 align="Center">  👋 Hi There, I'm Shubham Chandra </h1> 
-<p align="Center"><b>A passionate self-taught Data Analyst from India 🚀<b/></p>
+<p align="Center"><b>A passionate self-taught enthusiast from India 🚀<b/></p>
 
 
-<!-- - 👋 Hi, I'm Shubham Chandra,a passionate self-taught Data Analyst from India 🚀. -->
-- 👯 I'm currently employed at <a href="https://www.imsindia.com/center/patna/">IMS Learning Resources, Patna</a>
+<!-- - 👋 Hi, I'm Shubham Chandra,a passionate self-taught enthusiast from India 🚀. -->
+- 👯 I'm currently pusuing my Master's in Data Science at <a href="https://www.buffalo.edu/">University at Buffalo</a>
 - 🔭 I'm expert at Power BI, Python, MySQL, Excel and R Tool.
-- 👀 I’m interested in Data Science, Machine Learning, Deep Learning and Artificial Intelligence
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Machine Learning, Deep Learning and Artificial Intelligence.
 - 💞️ I’m looking to collaborate on projects related to Financial Sector.
+
 <! -- - 📫 How to reach me --> 
 
 <h3> 🤝🏻 Connect with Me </h3>
